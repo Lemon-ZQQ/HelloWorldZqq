@@ -5,6 +5,8 @@ public class Hello {
         System.out.println("hello");
         System.out.println("world");
         System.out.println("finally");
+
+        String str = "new_test_branch1"
     }
 }
 
